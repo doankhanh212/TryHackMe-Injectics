@@ -94,6 +94,4 @@ oke đã có kết quả tìm thấy người dùng tôi sẽ bắt đầu tìm 
 
 <img width="1213" height="800" alt="image" src="https://github.com/user-attachments/assets/1499eab8-e113-4b1c-8d97-a738520f159b" />
 
-<img width="1298" height="849" alt="image" src="https://github.com/user-attachments/assets/813fd89e-c426-4c73-b770-05e662d64f52" />
-
 lá cờ cuối cùng : THM{5735172b6c147f4dd649872f73e0fdea}
